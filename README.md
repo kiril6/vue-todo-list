@@ -1,5 +1,6 @@
 # vue-todo-list
 Todo list made with Vue and Firebase
+Live demo: http://portfolio.delovski.net/projects/vue/vue-todo-list/
 
 ## Project setup
 ```
